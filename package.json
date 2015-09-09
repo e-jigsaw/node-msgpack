@@ -1,8 +1,8 @@
 {
-	"name": "msgpack",
+	"name": "@jigsaw/msgpack",
 	"description": "A space-efficient object serialization library for node.js",
-	"version": "0.2.6",
-	"homepage": "https://github.com/msgpack/msgpack-node",
+	"version": "0.2.7",
+	"homepage": "https://github.com/e-jigsaw/msgpack-node",
 	"contributors": [
 		{
 			"name": "Amos Barreto",
@@ -54,11 +54,15 @@
 		{
 			"name": "Keiji Yoshimi",
 			"url": "https://github.com/walf443"
+		},
+		{
+			"name": "jigsaw",
+			"url": "http://jgs.me"
 		}
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/msgpack/msgpack-node.git"
+		"url": "https://github.com/e-jigsaw/msgpack-node.git"
 	},
 	"main": "./lib/msgpack",
 	"directories": {
